@@ -215,7 +215,7 @@ console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd59-76c9-4775-9eee-3e4d90d7eaeb" width="100"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
 **🎰 TECH STACK ROULETTE 🎰**
 
