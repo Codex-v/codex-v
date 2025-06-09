@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd59-76c9-4775-9eee-3e4d90d7eaeb" width="200"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="200"/>
 
 | 🐳 **Containerization** | ☸️ **Orchestration** | ☁️ **Cloud Platforms** |
 |:----------------------:|:--------------------:|:----------------------:|
@@ -164,7 +164,7 @@ console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 </tr>
 </table>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b544c47c-d8aa-49b2-b9e0-5e3b5dd1b2ed" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 </div>
 
@@ -181,7 +181,7 @@ console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 | 📊 **Monitoring Wizard** | ⭐ | Custom Grafana dashboards & real-time alerts |
 | ☁️ **Cloud Infrastructure Master** | ⭐⭐⭐ | Multi-cloud deployments & Infrastructure as Code |
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b544c47c-d8aa-49b2-b9e0-5e3b5dd1b2ed" width="120"/>
+<img src="https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" width="120"/>
 
 </div>
 
