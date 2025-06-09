@@ -1,170 +1,283 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm [Your Name]
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to Ved Shah's Code Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Security+Engineer;DevOps+Specialist;Network+Architect;Problem-First+Solution+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;LOADING+DEVELOPER+PROFILE...;ACCESS+GRANTED;Welcome+to+the+Matrix" alt="Matrix Style Typing" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Codex-v&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
-## 🛡️ About Me
+## 🎮 Character Stats
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
 
-```go
-package main
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="200"/>
 
-import "fmt"
+<table>
+<tr>
+<td>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100"/>
+</td>
+<td>
 
-type TechnicalSolutionsArchitect struct {
-    Name   string
-    Role   string
-    Motto  string
-}
+**🎯 LEVEL:** Senior Full Stack Engineer  
+**⚡ XP:** 50,000+ lines of code  
+**🛡️ CLASS:** Problem Solver  
+**🎪 SPECIAL:** Turning Coffee into Code  
 
-func (t *TechnicalSolutionsArchitect) SayHi() {
-    fmt.Println("Thanks for dropping by! Let's turn roadblocks into breakthroughs.")
-}
+</td>
+<td>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="100"/>
+</td>
+</tr>
+</table>
 
-func (t *TechnicalSolutionsArchitect) CoreCompetencies() map[string][]string {
-    return map[string][]string{
-        "development":     {"Flutter", "Go", "Node.js", "Django", "FastAPI", "Tauri", "Electron"},
-        "security":        {"DDoS Mitigation", "Intrusion Detection", "Web App Firewalls", "API Security"},
-        "infrastructure":  {"CI/CD Automation", "Cloud-Native Architecture", "Scalable Deployments"},
-        "networking":      {"Enterprise Security Solutions", "CCNP", "Cisco Certified"},
-    }
-}
+</div>
 
-func main() {
-    me := &TechnicalSolutionsArchitect{
-        Name:  "Your Name",
-        Role:  "Problem-First Solution Engineer", 
-        Motto: "Transforming Complex Technical Challenges into Innovative Solutions",
-    }
-    me.SayHi()
-}
+## 💀 Skill Tree (Unlocked Abilities)
+
+<div align="center">
+
+| 🔥 Backend Mastery | 📱 Mobile Wizardry | 🎨 Frontend Magic | ⚔️ Security Fortress | 🛠️ DevOps Arsenal | 🧠 Development Tools |
+|:-----------------:|:------------------:|:------------------:|:--------------------:|:-----------------:|:-------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/> **99%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> **95%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> **92%** | 🛡️ **88%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> **95%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/> **95%** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> **95%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/> **88%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> **90%** | 🔐 **85%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/> **90%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/> **92%** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> **90%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/> **85%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> **88%** | 🚨 **82%** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/> **88%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40"/> **90%** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> **87%** | ⚡ **Tauri** **82%** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/> **85%** | 🔥 **API Security** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> **85%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" width="40"/> **88%** |
+
+</div>
+
+## 🎖️ Certified Warrior Badges
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80"/> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80"/> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="80"/>
+
+<img src="https://img.shields.io/badge/🔴_Red_Hat-DevOps_Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🌐_Cisco-CCNP_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🛡️_Network-Security_Pro-800080?style=for-the-badge&logo=security&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-Architecture_Master-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000"/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="150"/>
+
+</div>
+
+## 🎛️ DevOps Command Center
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd59-76c9-4775-9eee-3e4d90d7eaeb" width="200"/>
+
+| 🐳 **Containerization** | ☸️ **Orchestration** | ☁️ **Cloud Platforms** |
+|:----------------------:|:--------------------:|:----------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>**Docker 95%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/><br>**Kubernetes 90%** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/><br>**AWS 88%** |
+| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="40"/><br>**Podman 82%** | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40"/><br>**Swarm 75%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/><br>**Azure 75%** |
+
+| 🔧 **CI/CD Pipeline** | 📊 **Monitoring** | 🏗️ **Infrastructure** |
+|:--------------------:|:-----------------:|:---------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/><br>**Jenkins 85%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/><br>**Grafana 80%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/><br>**Terraform 85%** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/><br>**GitLab CI 88%** | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="40"/><br>**Prometheus 78%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/><br>**Ansible 80%** |
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="150"/>
+
+</div>
+
+## 🔮 Real-Time GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codex-v&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=F8D866&text_color=F8F8F2&title_color=FF6BCB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex-v&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=F8F8F2&title_color=FF6BCB"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Codex-v&theme=synthwave&hide_border=true&background=0D1117&stroke=FF6BCB&ring=F8D866&fire=FF6BCB&currStreakLabel=FF6BCB" alt="GitHub Streak"/>
+</div>
+
+## 🎲 Random Dev Fact Generator
+
+<div align="center">
+  
+```javascript
+const vedStats = {
+  dailyCoffeeConsumption: "∞ cups ☕",
+  favoriteDebuggingMethod: "console.log('WHY?!') 🤔",
+  codeReviewStyle: "Constructively Destructive 💥",
+  workingHours: "When inspiration strikes ⚡",
+  superpower: "Making legacy code cry 😢",
+  kubernetesPodsManaged: "2000+ pods and counting 🚢",
+  dockerContainersSpun: "Like a laundromat on steroids 🐳",
+  cicdPipelinesBuilt: "More pipelines than an oil company 🔧",
+  serversAutomated: "Ansible made them dance 🤖"
+};
+
+// Auto-generated fact of the day
+console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 ```
 
-<div align="center">
-
-## 🔥 My Stats
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=react&border=61dafb&hide_border=true" alt="Streak Stats"/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages"/>
-
 </div>
 
-## 🛠️ My Arsenal
+## 🎪 Current Experiments in the Lab
 
 <div align="center">
 
-### Programming Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=flutter,go,nodejs,django,fastapi,python,js,dart" alt="Languages & Frameworks"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100"/>
 
-### Development Tools & Platforms
-<img src="https://skillicons.dev/icons?i=tauri,electron,android,react,vue,express,mongodb,postgresql" alt="Development Tools"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Security & Infrastructure
-<img src="https://img.shields.io/badge/DDoS_Mitigation-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Intrusion_Detection-DC143C?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_App_Firewall-4169E1?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Security-32CD32?style=for-the-badge&logo=postman&logoColor=white" />
+🤖 **AI-Powered Security Scanner**  
+`Status: ████████▓▓ 80%`  
+`Stack: Go + TensorFlow + Redis`  
+`DevOps: Docker + K8s + Jenkins`
 
-### DevOps & Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,gitlab,github" alt="DevOps"/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,redis,nginx,grafana" alt="Cloud & Monitoring"/>
+</td>
+<td align="center" width="50%">
 
-### Networking & Enterprise Solutions
-<img src="https://img.shields.io/badge/Cisco_CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Enterprise_Networks-2F4F4F?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Security-800080?style=for-the-badge&logo=fortinet&logoColor=white" />
+💰 **Cross-Platform Crypto Wallet**  
+`Status: ██████▓▓▓▓ 60%`  
+`Stack: Flutter + Blockchain APIs`  
+`CI/CD: GitLab + AWS ECS`
 
-### Certifications
-<img src="https://img.shields.io/badge/Red_Hat_DevOps-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/CCNP_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+🛒 **Microservices E-commerce**  
+`Status: ███████▓▓▓ 70%`  
+`Stack: Go + PostgreSQL + Redis`  
+`Infra: Terraform + K8s + Grafana`
+
+</td>
+<td align="center" width="50%">
+
+🔒 **Enterprise Security Dashboard**  
+`Status: █████████▓ 90%`  
+`Stack: React + FastAPI + MongoDB`  
+`Monitor: ELK Stack + Prometheus`
+
+</td>
+</tr>
+</table>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b544c47c-d8aa-49b2-b9e0-5e3b5dd1b2ed" width="200"/>
 
 </div>
 
-## 🎯 Current Projects
+## 🎯 DevOps Achievement Unlocked
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=enterprise-security-framework&theme=react&border_color=61dafb&hide_border=true)](https://github.com/yourusername/enterprise-security-framework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=scalable-deployment-toolkit&theme=react&border_color=61dafb&hide_border=true)](https://github.com/yourusername/scalable-deployment-toolkit)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="80"/> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="80"/> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80"/>
+
+| Achievement | Level | Description |
+|:-----------:|:-----:|:-----------:|
+| 📈 **Scalability Architect** | ⭐⭐⭐ | Deployed services handling 1M+ requests/day |
+| 🔄 **CI/CD Pipeline Ninja** | ⭐⭐ | Zero-downtime deployments with Blue-Green |
+| 📊 **Monitoring Wizard** | ⭐ | Custom Grafana dashboards & real-time alerts |
+| ☁️ **Cloud Infrastructure Master** | ⭐⭐⭐ | Multi-cloud deployments & Infrastructure as Code |
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b544c47c-d8aa-49b2-b9e0-5e3b5dd1b2ed" width="120"/>
 
 </div>
 
-## 📊 This Week I Spent My Time On
+## 🎯 Achievement Unlocked
 
-```text
-💻 Full Stack Development    ████████████████████░   87.5%
-🛡️ Security Implementation   ████████████████░░░░░   75.2%
-🚀 DevOps & Infrastructure   ██████████████░░░░░░░   68.9%
-🌐 Network Architecture      ████████████░░░░░░░░░   58.4%
-📚 Continuous Learning       ████████████████░░░░░   78.6%
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Codex-v&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+
+</div>
+
+## 🔊 Currently Jamming To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing/ved-shah)](https://spotify.link/ved-shah)
+
+*Coding playlist: Lo-fi Hip Hop + Synthwave + Coffee Shop Jazz*
+
+</div>
+
+## 🌊 Contribution Wave
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codex-v&theme=synthwave&bg_color=0D1117&color=FF6BCB&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
+
+</div>
+
+## 🎮 Mini Game: Guess My Next Tech Stack
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd59-76c9-4775-9eee-3e4d90d7eaeb" width="100"/>
+
+**🎰 TECH STACK ROULETTE 🎰**
+
+Current Combination: **[ Rust ] + [ WebAssembly ] + [ Machine Learning ]**
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="80"/>
+
+| DevOps Probability Matrix | Level |
+|:--------------------------|:-----:|
+| Docker Containerization | █████████ 99% |
+| Kubernetes Orchestration | ████████▓ 95% |
+| Terraform Infrastructure | ███████▓▓ 88% |
+| Jenkins Pipeline | ██████▓▓▓ 82% |
+| Monitoring with Grafana | █████▓▓▓▓ 78% |
+
+**Probability of weekend project:** 78% 📈  
+**Chance of proper CI/CD setup:** 95% 🚀
+
+</div>
+
+## 🚀 Connect to My Network
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vedshah">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&labelColor=0077B5"/>
+</a>
+<a href="https://twitter.com/vedshah">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&labelColor=1DA1F2"/>
+</a>
+<a href="mailto:ved@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&labelColor=D14836"/>
+</a>
+
+</div>
+
+## 🎭 Easter Egg
+
+<div align="center">
+
+<details>
+<summary>🕵️ Click here if you're brave enough...</summary>
+
+```
+    ╔══════════════════════════════════════╗
+    ║                                      ║
+    ║  You found the secret developer      ║
+    ║  confession chamber! 🤫             ║
+    ║                                      ║
+    ║  "I sometimes Google how to center   ║
+    ║   a div... and I'm not ashamed."     ║
+    ║                                      ║
+    ║  "My code works on my machine" is    ║
+    ║   a valid debugging strategy.        ║
+    ║                                      ║
+    ║  I have 47 unfinished side projects ║
+    ║   and counting... 📈                ║
+    ║                                      ║
+    ╚══════════════════════════════════════╝
 ```
 
-## 🏆 Professional Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Red_Hat_Certified-DevOps_Engineer-red?style=for-the-badge&logo=redhat" />
-<img src="https://img.shields.io/badge/Cisco_CCNP-Certified-blue?style=for-the-badge&logo=cisco" />
-<img src="https://img.shields.io/badge/Enterprise_Networks-Specialist-darkblue?style=for-the-badge&logo=cisco" />
-
-</div>
-
-### 🎯 Solution Architecture Highlights
-- 🏗️ **Scalable Deployment Strategies** - Cloud-native architectures serving millions
-- 🔐 **Integrated Security Solutions** - End-to-end security across development lifecycle  
-- ⚡ **Performance Optimization** - Custom solutions addressing root cause bottlenecks
-- 🌐 **Enterprise Network Design** - Large-scale infrastructure security implementations
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-</div>
-
-## 🔐 Security Quote of the Day
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+thrive+in+high-pressure+environments+where+complexity+meets+opportunity;Rather+than+following+conventional+approaches%2C+I+engineer+custom+solutions;Continuous+learning+ensures+I+stay+ahead+of+emerging+technologies;Delivering+end-to-end+solutions+across+development%2C+security%2C+and+operations" alt="Professional Philosophy" />
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://yourwebsite.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-## 🐍 Watch my contribution graph get eaten by the snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
+</details>
 
 </div>
 
@@ -172,10 +285,10 @@ func main() {
 
 <div align="center">
 
-### 💡 "Transform complex technical challenges into innovative solutions that bridge development excellence and operational security."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+Let's+turn+roadblocks+into+breakthroughs+🚀;Building+scalable+solutions+with+security+at+the+core+🔒;Innovation+through+problem-first+engineering+💡" alt="Footer Message" />
+**💎 Thanks for exploring my digital realm! Star ⭐ if you enjoyed the journey**
 
-⭐ From [yourusername](https://github.com/yourusername)
+<img src="https://komarev.com/ghpvc/?username=Codex-v&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views"/>
 
 </div>
