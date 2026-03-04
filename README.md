@@ -58,6 +58,10 @@
 <img src="https://img.shields.io/badge/🌐_Cisco-CCNP_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/🛡️_Network-Security_Pro-800080?style=for-the-badge&logo=security&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/☁️_Cloud-Architecture_Master-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/📡_Ham_Radio-Licensed_Operator-FF6600?style=for-the-badge&logo=radio&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🛰️_GNU_Radio-SDR_Expert-00CC44?style=for-the-badge&logo=gnu&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🌐_IoT-Embedded_Systems_Pro-0099FF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/📞_Telecom-SS7%2FC7_Protocol-CC0066?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000"/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="150"/>
 
@@ -80,6 +84,30 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/><br>**GitLab CI 88%** | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="40"/><br>**Prometheus 78%** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/><br>**Ansible 80%** |
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="150"/>
+
+</div>
+
+## 📡 Wireless & RF Command Center
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="120"/>
+
+| 🛰️ **Software Defined Radio** | 📶 **Wireless Protocols** | 🌐 **IoT & Embedded** | 📞 **Telecom Stacks** |
+|:-----------------------------:|:-------------------------:|:---------------------:|:---------------------:|
+| 🎛️ **GNU Radio 88%** | 📡 **Wi-Fi 802.11 a/b/g/n/ac 90%** | 🔌 **MQTT / CoAP 88%** | 📟 **SS7 / C7 Signaling 82%** |
+| ⚡ **USRP / UHD 85%** | 🔵 **Bluetooth 5 / BLE 85%** | 🌡️ **Zigbee / Z-Wave 80%** | 🔀 **SIP / VoIP / RTP 80%** |
+| 📻 **HackRF / RTL-SDR 83%** | 🔊 **Ham Radio HF/VHF/UHF 80%** | 📶 **LoRa (CSS / Semtech SX12xx) 85%** | 📡 **GSM / LTE / 5G NR 75%** |
+| 🎙️ **OpenWebRX / SigDigger 78%** | 📡 **Zigbee / Thread / Matter 80%** | 🌐 **LoRaWAN / TTN / ChirpStack 82%** | 🔗 **NB-IoT / LTE-M 74%** |
+| 🎚️ **DSP & Signal Analysis 80%** | 🏷️ **NFC / RFID / UWB 78%** | 🤖 **ESP32 / Raspberry Pi 92%** | 🔗 **DIAMETER / GTP / SCTP 72%** |
+
+| 🔧 **RF Tools & Platforms** | 📊 **Protocol Analysis** | ⚙️ **Embedded Firmware** |
+|:---------------------------:|:------------------------:|:------------------------:|
+| 🛠️ **GQRX / SDR# 85%** | 🔍 **Wireshark RF Plugins 82%** | 🔩 **FreeRTOS / Zephyr 80%** |
+| 📡 **GNU Radio Companion 88%** | 📈 **Spectrum Analysis 85%** | 💡 **Arduino / MicroPython 88%** |
+| 🏗️ **OpenBTS / OsmocomBB 75%** | 🔐 **RF Security & Jamming Detection 78%** | 🌐 **AWS IoT Core / Azure IoT Hub 82%** |
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="150"/>
 
 </div>
 
@@ -110,7 +138,15 @@ const vedStats = {
   kubernetesPodsManaged: "2000+ pods and counting 🚢",
   dockerContainersSpun: "Like a laundromat on steroids 🐳",
   cicdPipelinesBuilt: "More pipelines than an oil company 🔧",
-  serversAutomated: "Ansible made them dance 🤖"
+  serversAutomated: "Ansible made them dance 🤖",
+  sdrFrequenciesScanned: "0 Hz to 6 GHz — no signal escapes 📡",
+  iotDevicesDeployed: "ESP32s everywhere, even in the coffee maker ☕🤖",
+  hamRadioBands: "HF / VHF / UHF — CQ CQ this is Codex-v 🔊",
+  rfProtocolsDecoded: "BLE, LoRa CSS, LoRaWAN, Zigbee, APRS, ADS-B & counting 📶",
+  loraChirpsDemodulated: "SX1276/1278/1262 — chirp spread spectrum is life 📡",
+  telecomStacksNavigated: "SS7/C7 — because 1980s signaling never dies 📞",
+  usrpChannelsCapture: "I/Q samples flowing like a river of bits 🌊",
+  wirelessPacketsSniffed: "More than I'm legally allowed to mention 🕵️"
 };
 
 // Auto-generated fact of the day
@@ -147,18 +183,62 @@ console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 <tr>
 <td align="center" width="50%">
 
-🛒 **Microservices E-commerce**  
-`Status: ███████▓▓▓ 70%`  
-`Stack: Go + PostgreSQL + Redis`  
+🛒 **Microservices E-commerce**
+`Status: ███████▓▓▓ 70%`
+`Stack: Go + PostgreSQL + Redis`
 `Infra: Terraform + K8s + Grafana`
 
 </td>
 <td align="center" width="50%">
 
-🔒 **Enterprise Security Dashboard**  
-`Status: █████████▓ 90%`  
-`Stack: React + FastAPI + MongoDB`  
+🔒 **Enterprise Security Dashboard**
+`Status: █████████▓ 90%`
+`Stack: React + FastAPI + MongoDB`
 `Monitor: ELK Stack + Prometheus`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+📡 **SDR Spectrum Analyzer**
+`Status: ███████▓▓▓ 72%`
+`Stack: GNU Radio + USRP B210 + Python`
+`Protocols: FM/AM, ADS-B, APRS, LoRa`
+
+</td>
+<td align="center" width="50%">
+
+🌐 **Smart IoT Sensor Network**
+`Status: ██████▓▓▓▓ 65%`
+`Stack: ESP32 + MQTT + InfluxDB + Grafana`
+`Wireless: BLE Mesh + Wi-Fi + LoRa + LoRaWAN`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+📡 **LoRa Long-Range Sensor Grid**
+`Status: ██████▓▓▓▓ 68%`
+`Stack: SX1276 + STM32 + ChirpStack + Node-RED`
+`Range: 10km+ rural / sub-GHz chirp spread spectrum`
+
+</td>
+<td align="center" width="50%">
+
+📞 **C7/SS7 Protocol Analyzer**
+`Status: █████▓▓▓▓▓ 55%`
+`Stack: Python + Wireshark + OpenBTS`
+`Protos: ISUP, SCCP, MAP, TCAP`
+
+</td>
+<td align="center" width="50%">
+
+🔊 **Ham Radio Digital Mode Suite**
+`Status: ████████▓▓ 80%`
+`Stack: GNU Radio + Direwolf + WSJT-X`
+`Modes: FT8, APRS, D-STAR, DMR`
 
 </td>
 </tr>
@@ -180,6 +260,10 @@ console.log(vedStats[Math.floor(Math.random() * Object.keys(vedStats).length)]);
 | 🔄 **CI/CD Pipeline Ninja** | ⭐⭐ | Zero-downtime deployments with Blue-Green |
 | 📊 **Monitoring Wizard** | ⭐ | Custom Grafana dashboards & real-time alerts |
 | ☁️ **Cloud Infrastructure Master** | ⭐⭐⭐ | Multi-cloud deployments & Infrastructure as Code |
+| 📡 **SDR Signal Hunter** | ⭐⭐⭐ | USRP + GNU Radio capturing the full RF spectrum |
+| 🌐 **IoT Whisperer** | ⭐⭐ | BLE, LoRaWAN & Zigbee mesh networks in the wild |
+| 🔊 **Ham Radio Operator** | ⭐⭐ | HF/VHF/UHF digital modes: FT8, APRS, DMR, D-STAR |
+| 📞 **Telecom Stack Diver** | ⭐⭐ | SS7/C7, SIP, DIAMETER — legacy & modern telecom |
 
 <img src="https://camo.githubusercontent.com/96f69b52e5091c3d3d319ca5e627ae3f08adbe141675398f824a3c701ee188fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" width="120"/>
 
@@ -230,6 +314,16 @@ Current Combination: **[ Rust ] + [ WebAssembly ] + [ Machine Learning ]**
 | Terraform Infrastructure | ███████▓▓ 88% |
 | Jenkins Pipeline | ██████▓▓▓ 82% |
 | Monitoring with Grafana | █████▓▓▓▓ 78% |
+| SDR / GNU Radio + USRP | ████████▓ 88% |
+| IoT Sensor Network Deploy | ███████▓▓ 85% |
+| Bluetooth BLE Firmware | ███████▓▓ 85% |
+| Wi-Fi 802.11 Protocol Hacking | ███████▓▓ 83% |
+| RF Signal Analysis & DSP | ██████▓▓▓ 80% |
+| Ham Radio Digital Modes | ██████▓▓▓ 80% |
+| SS7 / C7 Telecom Stack | █████▓▓▓▓ 75% |
+| LoRa Physical Layer (Semtech SX12xx) | ████████▓ 85% |
+| LoRaWAN / TTN / ChirpStack | ███████▓▓ 82% |
+| NB-IoT / LTE-M | █████▓▓▓▓ 74% |
 
 **Probability of weekend project:** 78% 📈  
 **Chance of proper CI/CD setup:** 95% 🚀
